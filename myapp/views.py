@@ -43,7 +43,7 @@ def pay(request):
             'PartyB': LipanaMpesaPpassword.Business_short_code,
             'PhoneNumber': phone,
             'CallBackURL': 'https://example.com/callback',
-            'AccountReference': 'Erick were',
+            'AccountReference': 'Eric Gitonga',
             'TransactionDesc': 'Web Development Charges',
         }
 
